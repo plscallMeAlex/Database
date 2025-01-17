@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "0c8fd2b4d5723204",
+    "type": "split",
+    "children": [
+      {
+        "id": "269f81e0c513ee29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8726cfa49d89623",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction"
+            }
+          },
+          {
+            "id": "156c7eb3aab2da11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/Logical Database Model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Logical Database Model"
+            }
+          },
+          {
+            "id": "c7c4fa7c8150b5c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction"
+            }
+          },
+          {
+            "id": "e7a25ee2f98274dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/Keys.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Keys"
+            }
+          },
+          {
+            "id": "fe5e32bdd17cde52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/SQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SQL"
+            }
+          },
+          {
+            "id": "d37bc2ff88c96dc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10125b96a6d3cac1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c19da7e28448472",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e36991f2e20dedcb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0ce5a481364c9ed4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0d578fa5399a303d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "30c47ad670d78ad1",
+    "type": "split",
+    "children": [
+      {
+        "id": "311ee670fad6d9af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "070528929cc3f089",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lectures/Introduction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Introduction"
+            }
+          },
+          {
+            "id": "acddb0800b3a848e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lectures/Introduction.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Introduction"
+            }
+          },
+          {
+            "id": "50df176267e9712e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e584d7a5a302e63b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lectures/Introduction.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Introduction"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "e8726cfa49d89623",
+  "lastOpenFiles": [
+    "Lectures/SQL 2.md",
+    "Lectures/SQL.md",
+    "Lectures/Logical Database Model.md",
+    "Lectures/Introduction.md",
+    "images/Pasted image 20250115151551.png",
+    "Lectures/Keys.md",
+    "Lectures/Logical Database Model 2.md",
+    "images/Pasted image 20250115013651.png",
+    "images/Pasted image 20250115012455.png",
+    "images/Pasted image 20250115002902.png",
+    "images/Pasted image 20241224111146.png",
+    "images",
+    "Lectures",
+    "Welcome.md"
+  ]
+}
