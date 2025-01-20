@@ -8,7 +8,7 @@ comprises 3 parts these use for general purpose doesn't fit all database structu
 >group of 2 person on NoSQL product compare to SQL. After exam midterm.
 
 ## "Relation in the database area is data rows without the heading. (Data rows excluding the table structure)"
-A relation is a subset of the cartesian product of domains.
+A relation is a subset of the cartesian product of domains (in mathematic area).
 - **Domain mean a finite set of permitted values**
 - **The cartesian product mean the concatenation (combination) of all possible domain.**
 

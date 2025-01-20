@@ -46,7 +46,7 @@ How many female students in KMITL
 SELECT COUNT(*) FROM STUDENT WHERE GENDER = 2 OR GENDER = 4
 ```
 
-EMP
+Employees
 
 | E#  | .... | ..... | TELNO |
 | --- | ---- | ----- | ----- |
