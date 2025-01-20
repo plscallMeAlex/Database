@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Introduction.md",
+                "file": "Lectures/Keys.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "Keys"
             }
           },
           {
@@ -91,7 +91,8 @@
               "title": "Introduction"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -234,16 +235,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e8726cfa49d89623",
+  "active": "d37bc2ff88c96dc3",
   "lastOpenFiles": [
+    "Lectures/Logical Database Model 2.md",
+    "Exam/notes.pdf",
+    "Exam/notes.pdf.crdownload",
+    "Lectures/Logical Database Model.md",
+    "Lectures/Introduction.md",
+    "Lectures/SQL.md",
+    "Lectures/Keys.md",
     "Exam/Database_ScanMidterm2_21.pdf",
     "Exam",
     "New folder",
-    "Lectures/Logical Database Model.md",
-    "Lectures/SQL.md",
-    "Lectures/Keys.md",
-    "Lectures/Logical Database Model 2.md",
-    "Lectures/Introduction.md",
     "Lectures/SQL 2.md",
     "images/Pasted image 20250115151551.png",
     "images/Pasted image 20250115013651.png",
